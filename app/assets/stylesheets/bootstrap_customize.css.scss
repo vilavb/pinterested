@@ -1,9 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Karla:400,700);
+
 $body-bg: #ebeeeb;
-$navbar-inverse-bg: #222830;
+$font-family-sans-serif: 'Karla', 'Helvetica Neue', Arial, sans-serif;
+$navbar-default-bg: #222830;
 $navbar-border-radius: 0px;
-$navbar-inverse-link-color: #ebeeeb;
-$navbar-inverse-link-hover-color: #ee5545;
-$navbar-inverse-link-active-color: #ee5545;
-$navbar-inverse-brand-color: #ee5545;
+$navbar-height: 45px;
+$navbar-default-link-color: #ebeeeb;
+$navbar-default-link-hover-color: #ee5545;
+$navbar-default-link-active-color: #ee5545;
 
 @import 'bootstrap';
